@@ -1,0 +1,1 @@
+module.exports = {"base":"/","port":"6002","title":"Blog","description":"Static doc builder based on VuePress","dest":"dist","themeConfig":{"nav":[{"text":"Home","link":"/"},{"text":"GitHub","link":"https://github.com/wcxok/blog"}]}}
