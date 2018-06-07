@@ -96,7 +96,7 @@ const parseTheme = async () => {
     //       process.exit(1)
     //     }
     //   })
-    // })
+    })
 }
 
 const rewriteConfig = async () => {
